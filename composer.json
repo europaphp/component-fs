@@ -1,5 +1,5 @@
 {
-  "name": "europaphp/fs",
+  "name": "europaphp/component-fs",
   "description": "EuropaPHP filesystem component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
